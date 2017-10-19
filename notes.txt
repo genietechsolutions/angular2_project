@@ -1,0 +1,12 @@
+Github.....................
+1)repo.. 		- project 
+2)branch		- replica of your project 
+3)pull request
+4)sync
+5)publish
+6)pull / fetch 
+7)conflicts
+8)commit		- saving your code into branch 
+
+PR -> I am done changes => requesting you to approve my changes to develop.
+
